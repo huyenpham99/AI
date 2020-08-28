@@ -1,0 +1,5 @@
+C:\Users\Huyen\RiderProjects\AI\AI\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\Huyen\RiderProjects\AI\AI\bin\Debug\AI.exe
+C:\Users\Huyen\RiderProjects\AI\AI\bin\Debug\AI.pdb
+C:\Users\Huyen\RiderProjects\AI\AI\obj\Debug\AI.exe
+C:\Users\Huyen\RiderProjects\AI\AI\obj\Debug\AI.pdb
