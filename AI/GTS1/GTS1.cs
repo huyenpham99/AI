@@ -83,7 +83,7 @@ namespace AI.GTS1
                     }
                 }
                 dem++;
-                    Tour[dem] = co;
+                    co =Tour[dem] ;
                     Cost += tmpCost;
                     flag[v] = 1;
                     v = co;
